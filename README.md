@@ -9,7 +9,7 @@
 
 **City: Udupi, Karnataka, 576212**
 
-**LinkedIn: https://www.linkedin.com/in/swasthik-acharya3b5937171**
+**LinkedIn: https://www.linkedin.com/in/swasthik-acharya-3b5937171/**
 
 **Resume: https://github.com/swasthik62/swasthik62.github.io/blob/main/SWASTHIK%20BA.pdf**
 
