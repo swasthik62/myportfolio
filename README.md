@@ -11,7 +11,7 @@
 
 **LinkedIn: https://www.linkedin.com/in/swasthik-acharya3b5937171**
 
-**Resume: https://www.canva.com/design/DAFdF9Ygm4Q/Jt-agbQuRK9ML6GvmZSFRg/edit?utm_content=DAFdF9Ygm4Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton**
+**Resume: https://drive.google.com/file/d/1AEcMc7CXJCYtP91nWH7GvCIF3F3AkBmS/view?usp=sharing**
 
 
 ## Objective
