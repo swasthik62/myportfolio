@@ -11,7 +11,7 @@
 
 **LinkedIn: https://www.linkedin.com/in/swasthik-acharya-3b5937171/**
 
-**Resume: https://github.com/swasthik62/swasthik62.github.io/blob/main/SWASTHIK%20BA.pdf**
+**Resume: https://github.com/swasthik62/swasthik62.github.io/blob/main/SWASTHIK%20RESUME%20(1).pdf**
 
 
 ## Objective
