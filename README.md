@@ -14,14 +14,12 @@
 
 ## Objective
 
-Highly Motivated and analytical professional with
-experience in evaluating dashboards and developing
-KPI reports. Certified Data Analytical Specialist
-proficient in R-Programming, Python, SQL and
-Tableau. Professional experiences like working in 2
-major corporate companies and having 2+ years of
-working experience with the Retail data as well as
-the telecommunication data
+Aspiring in Data Analytics role where I can leverage my proficiency in handling extensive datasets to
+extract insights that drive the creation of impactful dashboards. Collaborative teamwork is at the heart of
+my approach. I am a passionate learner and a detail-oriented individual. My foundation in statistical
+modeling and adeptness in Hypothesis testing with hands on experience in data modeling and cleansing
+using R and SQL. My expertise in Data visualization with Tableau adds a compelling dimension to my skill
+set.
 
 ## PROJECTS
 
