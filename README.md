@@ -21,40 +21,24 @@ modeling and adeptness in Hypothesis testing with hands on experience in data mo
 using R and SQL. My expertise in Data visualization with Tableau adds a compelling dimension to my skill
 set.
 
-## PROJECTS
+## DATA ANALYTICS PROJECT
 
-# Project 1: How Does a Bike-Share Navigate Speedy Success?
+### PROJECT 1 - REAL ESTATE
 
-**Project Link: https://github.com/swasthik62/swasthik62.github.io/blob/main/README.md**
+**Problem**
+A real estate agency wanted to reduce the negotiation time and improve
+closure for buyers and sellers of homes by ensuring that both sides were advised well on the potential
+sale/purchase price of the home. To that end the agency wanted to predict a transaction price for all the
+houses in its market which would be as close as possible to a price where the transaction would take place.
+Data regarding all possible variables and qualities of over 10,000 houses sold in the past was collected and
+analyzed.
+**Solution**: Created a predictive model using linear regression and implemented CvTuning with the help of
+Random forest and GBM to arrive at a potential transaction price for all future transactions. Over the next 6
+months, negotiation time was brought down from 27 days on average to 21 days. Deal closure went up by
+18%.
 
-**Scenario**
-As a data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore,my team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, my team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve my recommendations, so they must be backed up with compelling data insights and professional data visualizations.
-
-#Some of the Visualization results of my project
 
 
-![App Screenshot](https://github.com/swasthik62/swasthik62.github.io/blob/main/Total%20trips%20by%20customer%20type%20vs%20week.png)
-
-
-![App Screenshot](https://github.com/swasthik62/swasthik62.github.io/blob/main/total%20trips%20by%20customer%20type%20vs%20Shift.png)
-
-**Share & Act**
-
-Once the analysis is completed and we have obtained the insights, now we have to share this information to the relevant stakeholders. In this case, a presentation will be made for the Director of Marketing outlining the business task, assumptions made using the data we had and translating the insights from the analysis to actionable recommendations.
-
-1. Based on my analysis, these were my observations:
-
-2. A significant amount of subscribed riders use Cyclistic during the mid weeks, notably Monday To Friday and the data shows a higher average trip duration of the mid week day itself.
-
-3. As in the weekend the Subscribers will slightly goes down and the slightly raise in the random customers.
-
-4. We can clearly see in the month of July there is pathtic drop in the users.
-
-5. There is more users in the mid year like June and August but as the year end the numbers of user will going down.
-
-6. When its come to the average day usage there is high users in the Evening, and very lesss users in the Night time. and the numbers of the "customer" is very less in the Mornig and night time.
-
-Most number of casual rider trips were shown to be during the summer months of May, June, August and september and in the month of July there is rapid degrowing in a single month because of the heavy rain. There is decline during the winter months.
 
 # Project 2: How Can a Wellness Technology Company Play It Smart?
 
