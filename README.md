@@ -80,15 +80,15 @@ employees are leaving the organization on early basis. Same analyzed and communi
 
 ## WORK EXPERIENCE
 
-### BHARTI AIRTEL - Account Manager (B2B)                                                                             Sep 2022-current
-> Responsible for overseeing and managing 300+ B2B top end product accounts.
-> Generated revenue increase of 30% in 10 months over the multiple Product lines.
-> Addressed problems with accounting, billing, and service delivery to maintain and enhance B2B client
+### BHARTI AIRTEL - Account Manager (B2B)                                                                             Sep 2022-current  
+1. Responsible for overseeing and managing 300+ B2B top end product accounts.
+2. Generated revenue increase of 30% in 10 months over the multiple Product lines.
+3. Addressed problems with accounting, billing, and service delivery to maintain and enhance B2B client
 satisfaction and renewed customer relations to drive growth.
 
 ### RELIANCE RETAILS- New Store Ops. Manager(Project)                                                               Dec 2020-Sep 2022
-> Analyze the market and validate the Profit and Loss prediction of next 5 years tenure of Smart Stores.
-> Handled New Reliance Smart, Smart Point and Smart Bazar stores Projects and closing the Projects
+1.  Analyze the market and validate the Profit and Loss prediction of next 5 years tenure of Smart Stores.
+2.  Handled New Reliance Smart, Smart Point and Smart Bazar stores Projects and closing the Projects
 within the deadline and Launched 15 New Store Projects, all the stores are running in minimum profit
 of 18%.
 
@@ -99,13 +99,13 @@ of 18%.
 
 ## CERTIFICATIONS
 ### Certified Business Analytics Professional
-> Implemented R-Programming (Predictive Analysis), SQLand Tableau to Prepare, Process, Analyze and Share the data into thoughtful insight.
+Implemented R-Programming (Predictive Analysis), SQLand Tableau to Prepare, Process, Analyze and Share the data into thoughtful insight.
 
-### Google Data Analytics – 
-> Used the spreadsheet, SQL and R-Programming to create a raw data into an actionable insight.
+### Google Data Analytics 
+Used the spreadsheet, SQL and R-Programming to create a raw data into an actionable insight.
 
 ## ACHIEVEMENTS
 
-> Led Team for ‘250th Smart Superstore across the Karnataka’ event with necessary campaigns.
-> Successfully handled and Launched 4 Big bazaar to Smart Bazar conversion project. 
-> Generated 8,00,000 revenue of SIRSI SP on Launching day.
+1. Led Team for ‘250th Smart Superstore across the Karnataka’ event with necessary campaigns.
+2. Successfully handled and Launched 4 Big bazaar to Smart Bazar conversion project. 
+3. Generated 8,00,000 revenue of SIRSI SP on Launching day.
