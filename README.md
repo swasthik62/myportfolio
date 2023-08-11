@@ -5,7 +5,7 @@
 
 **Contact Details: +919741182528**
 
-**Mail ID: swasthikacharya62@gmail.com**
+**Mail ID: swasthik.achaarya@gmail.com**
 
 **City: Udupi, Karnataka, 576212**
 
@@ -34,32 +34,78 @@ Data regarding all possible variables and qualities of over 10,000 houses sold i
 analyzed.
 **Solution**: Created a predictive model using linear regression and implemented CvTuning with the help of
 Random forest and GBM to arrive at a potential transaction price for all future transactions. Over the next 6
-months, negotiation time was brought down from 27 days on average to 21 days. Deal closure went up by
-18%.
+months, negotiation time was brought down from 27 days on average to 8 days. Deal closure went up by
+19%.
+**Link:https://github.com/swasthik62/Project1-Real-Estate/blob/main/README.md**
 
+### PROJECT 2 - RETAIL:
 
+**Problem**
+A retail giant needs to plan its new store openings over the next 12-18 months and
+has multiple locations where the stores can be opened. It wants to understand which locations would be
+the best to open new stores in terms of market size and potential revenues. Relevant data regarding
+locations, population, sales and revenues of key products for stores opened in the past was provided to
+be analyzed and for model building.
+**Solution**: Created a Random Forest and Logistic regression models to predict if a store should be opened
+or not in that particular location. Random Forest worked out to be a better model and Approximately 25
+locations were selected to open new stores based on this analysis.
 
+### PROJECT 3 - HR:
 
-# Project 2: How Can a Wellness Technology Company Play It Smart?
+**Problem**
+A mid-sized IT company with over 10,000 employees needed to plan its hiring and
+reduce risk of projects getting delayed due to employees leaving. It also wanted to understand why its
+attrition rate was high and how it could be reduced.
+**Solution**: Created a decision tree model along with a Random Forest model with Hyper Parameter tuning
+to predict attrition and also to better understand the factors related to attrition taking place. Random
+Forest provided greater accuracy and got the AUC score as 0.96
 
-scenario
-Here in this project as a data analyst i will be working for Bellabeat, a high-tech manufacturer of health-focused products for women, and meet different characters and team members. Bellabeat is a successful small company, but they have the potential to become a larger player in the global smart device market. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. I have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights im discover will then help guide marketing strategy for the company. I will present my analysis to the Bellabeat executive team along with my high-level recommendations for Bellabeat’s marketing strategy.
+### PROJECT 4 - SQL DATABASE: 
 
-## Some of the Visualization results of my project
+**Problem**
+Create TENANT database with 10 tables and all the tables should be
+connected to each other though the database diagram. Also scratch the query for subquery and Inner
+Joins for the same.
+**Solution**: Created the TENANT database with 10 tables and with the help of Foreign key i have connected
+the tables to the Database accordingly. and also scratch the required data from subquery and joins
+command.
 
-![image](https://user-images.githubusercontent.com/125183564/225398513-43b3e815-0282-4ff2-ab74-a03427ba826d.png)
+### PROJECT 5 -  TABLEAU HR ANALYTICAL DASHBOARD
 
-![image](https://user-images.githubusercontent.com/125183564/225400229-239cae35-066c-4a7d-920b-f01662676c45.png)
+**Problem**
+Company is facing High attrition rate issue and as a Business analyst you need to suggest the HR department how to overcome this issue.
+**Solution**: After the thorough understanding of the case company has very poor work culture and there is
+no internal promotion has given to the employee has more educated and Identifies age between 25-34
+employees are leaving the organization on early basis. Same analyzed and communicated to the client.
 
-# Share and Act
+## WORK EXPERIENCE
 
-Once the analysis is completed and we have obtained the insights, now we have to share this information to the relevant key stakeholders. In this case, a presentation will be made for the stakeholders outlining the business task, assumptions made using the data we had and translating the insights from the analysis to actionable recommendations.
+### BHARTI AIRTEL - Account Manager (B2B)                                                                             Sep 2022-current
+> Responsible for overseeing and managing 300+ B2B top end product accounts.
+> Generated revenue increase of 30% in 10 months over the multiple Product lines.
+> Addressed problems with accounting, billing, and service delivery to maintain and enhance B2B client
+satisfaction and renewed customer relations to drive growth.
 
-Recommendations for the Bellabeat Spring Device:
+### RELIANCE RETAILS- New Store Ops. Manager(Project)                                                               Dec 2020-Sep 2022
+> Analyze the market and validate the Profit and Loss prediction of next 5 years tenure of Smart Stores.
+> Handled New Reliance Smart, Smart Point and Smart Bazar stores Projects and closing the Projects
+within the deadline and Launched 15 New Store Projects, all the stores are running in minimum profit
+of 18%.
 
-1. They need to share their testimonial and success stories and also they should collect the feedback from their customer
-2. Adjust the algorithm in the Spring bottle tracking device to sync with the Ivy health tracker to alert users “aggresively” between 5 pm and 7 pm to increase their water intake.
-2. Women who work full-time jobs  and spend a lot of time at the computer/in a meeting/ focused on work they are doing.
-3. These women do some light activity to stay healthy (according to the activity type analysis). Even though they need to improve their everyday activity to have health benefits. They might need some knowledge about developing healthy habits or motivation to keep going.
-4. Now is an excellent time to start a virtual community. Users will feel more supported if community-building is emphasized throughout the messaging and campaign.
-5. The pandemic caused a lot of losses, now that it is almost in the past, Bellabeat has the option to remarket her products to current users or those who have recently stopped using their products.
+## EDUCATION
+
+**Master Of Business Administration - IGNOU 2022**                                                                    Jan - Pursuing
+**Bachelor Of Hotel Management - Mangalore University**                                                                    2016-2020
+
+## CERTIFICATIONS
+### Certified Business Analytics Professional
+> Implemented R-Programming (Predictive Analysis), SQLand Tableau to Prepare, Process, Analyze and Share the data into thoughtful insight.
+
+### Google Data Analytics – 
+> Used the spreadsheet, SQL and R-Programming to create a raw data into an actionable insight.
+
+## ACHIEVEMENTS
+
+> Led Team for ‘250th Smart Superstore across the Karnataka’ event with necessary campaigns.
+> Successfully handled and Launched 4 Big bazaar to Smart Bazar conversion project. 
+> Generated 8,00,000 revenue of SIRSI SP on Launching day.
