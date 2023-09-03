@@ -1,7 +1,7 @@
 # MY PORTFOLIO
 
 ## Personal Information
-**Name: Swasthik, Data Analyst**
+**Name: Swasthik, Data Analyst/Business Analyst**
 
 **Contact Details: +919741182528**
 
