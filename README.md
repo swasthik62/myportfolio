@@ -50,6 +50,8 @@ be analyzed and for model building.
 or not in that particular location. Random Forest worked out to be a better model and Approximately 25
 locations were selected to open new stores based on this analysis.
 
+**link : https://github.com/swasthik62/project2**
+
 ### PROJECT 3 - HR:
 
 **Problem**
