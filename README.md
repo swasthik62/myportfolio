@@ -1,7 +1,7 @@
 # MY PORTFOLIO
 
 ## Personal Information
-**Name: Swasthik, Data Analyst/Business Analyst**
+**Name: Swasthik, Business Analyst**
 
 **Contact Details: +919741182528**
 
@@ -14,12 +14,25 @@
 
 ## Objective
 
-Aspiring in Data Analytics role where I can leverage my proficiency in handling extensive datasets to
-extract insights that drive the creation of impactful dashboards. Collaborative teamwork is at the heart of
-my approach. I am a passionate learner and a detail-oriented individual. My foundation in statistical
-modeling and adeptness in Hypothesis testing with hands on experience in data modeling and cleansing
-using R and SQL. My expertise in Data visualization with Tableau adds a compelling dimension to my skill
-set.
+Aspiring Business Analyst with an MBA and 2.7 years of professional experience in Operations Project
+Handling and Stakeholder Management. Proficient in statistical modeling, hypothesis testing, data
+modeling, and cleansing data using R-Studio, SQL, and skilled in data visualization with Tableau. I excel in
+Waterfall and Agile methodologies using JIRA for Software Development. Committed to continuous
+learning and dedicated to driving data-driven decision-making in a dynamic business environment.
+
+## CERTIFICATIONS
+### Certified Business Analytics Professional
+Implemented R-Programming (Predictive Analysis), SQLand Tableau to Prepare, Process, Analyze and Share the data into thoughtful insight.
+
+### Agile Certified Practitioner (PMI-ACP)® 
+Understand the SDLC and Waterfall and agile methodology for developing the Software for the stakeholder using the JIRA cloud.
+
+### Agile Project Management with JIRA cloud 
+Implemented the JIRA according to the clients requirements using the Agile methodology.
+
+### Google Data Analytics 
+Used the spreadsheet, SQL and R-Programming to create a raw data into an actionable insight.
+
 
 ## DATA ANALYTICS PROJECT
 
@@ -80,6 +93,42 @@ Company is facing High attrition rate issue and as a Business analyst you need t
 no internal promotion has given to the employee has more educated and Identifies age between 25-34
 employees are leaving the organization on early basis. Same analyzed and communicated to the client.
 
+### PROJECT 6 - DEVELOPING CUSTOMER PAYMENT METHODS - JIRA
+
+**Problem**
+Client wants to build a new feature of Online payment in their software.
+**Solution** : As a project manager collected the Hypothesis and created the EPIC and then created the
+Sprints with the help of Story and also assign the tasks to the respective team members and also found
+the Bugs and additional requirements of credit card integration from the clients which i have dealing with
+the help of JIRA software.
+
+### PROJECT 7 - SALES DATA ANALYSIS (EXCEL)
+
+**Problem**
+The purpose of this project is to conduct a
+comprehensive analysis of sales data with the aim of identifying key trends, top-selling products, and
+revenue metrics. These insights will be crucial for making informed business decisions and optimizing
+sales strategies.
+**Solution** : The purpose of this project is to conduct a
+comprehensive analysis of sales data with the aim of identifying key trends, top-selling products, and
+revenue metrics. These insights will be crucial for making informed business decisions and optimizing
+sales strategies.
+
+**Link : https://github.com/swasthik62/Sales-project/blob/main/README.md**
+
+### PROJECT 8 - DIABETES DISEAS(R-Studio)
+
+**Problem**
+This dataset is originally from the National Institute of Diabetes
+and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether a
+patient has diabetes.
+**Solution** : I have collected the relevant dataset and split the dataset into test and train then i applied on the
+models, The Dataset performing really well on Random Forest model and we found that on the basis of
+the dataset the patient has the diabetes same communicated to the stakeholder.
+
+**Link : https://github.com/swasthik62/DIABETES.CASE.STUDY**
+
+
 ## WORK EXPERIENCE
 
 ### BHARTI AIRTEL - Account Manager (B2B)                                                                             Sep 2022-current  
@@ -90,21 +139,18 @@ satisfaction and renewed customer relations to drive growth.
 
 ### RELIANCE RETAILS- New Store Ops. Manager(Project)                                                               Dec 2020-Sep 2022
 1.  Analyze the market and validate the Profit and Loss prediction of next 5 years tenure of Smart Stores.
-2.  Handled New Reliance Smart, Smart Point and Smart Bazar stores Projects and closing the Projects
-within the deadline and Launched 15 New Store Projects, all the stores are running in minimum profit
-of 18%.
+2.  Managed 15 Retail Projects with New Reliance Smart, Smart Point, and Smart Bazar with currently
+getting the revenue of minimum 18%.
+3.  Proficient in business analysis and presenting findings to top management. Strong problem-solving
+skills in project management.
+4.  Manage all controllable costs to keep operations profitable
 
 ## EDUCATION
 
 **Master Of Business Administration - IGNOU 2022**                                                                    Jan - Pursuing
+
 **Bachelor Of Hotel Management - Mangalore University**                                                                    2016-2020
 
-## CERTIFICATIONS
-### Certified Business Analytics Professional
-Implemented R-Programming (Predictive Analysis), SQLand Tableau to Prepare, Process, Analyze and Share the data into thoughtful insight.
-
-### Google Data Analytics 
-Used the spreadsheet, SQL and R-Programming to create a raw data into an actionable insight.
 
 ## ACHIEVEMENTS
 
