@@ -15,7 +15,7 @@
 ## Objective
 
 Aspiring Business Analyst with an MBA and 2.7 years of professional experience in Operations Project
-Handling and Stakeholder Management. Proficient in statistical modeling, hypothesis testing, data
+Handling and Stakeholder Management. Completed and Certified Data analyst intern at MeriSkill. Proficient in statistical modeling, hypothesis testing, data
 modeling, and cleansing data using R-Studio, SQL, and skilled in data visualization with Tableau. I excel in
 Waterfall and Agile methodologies using JIRA for Software Development. Committed to continuous
 learning and dedicated to driving data-driven decision-making in a dynamic business environment.
@@ -130,6 +130,14 @@ the dataset the patient has the diabetes same communicated to the stakeholder.
 
 
 ## WORK EXPERIENCE
+
+### MERISKILL - DATA ANALYST (INTERN) 
+1. Using the machine learning algorithm like Linear regression, DTree, RandomForest models to predict
+the case study of Diabetes patient using R-Programming.
+2. Data collection, extraction and created the EDA for the given Ecommerce case study using the
+Tableau and also Manipulate the dataset using Microsoft SQL.
+3. Created the dashboard using Tableau and Excel pivot table in-order to bring the more accurate and
+approachable presentation
 
 ### BHARTI AIRTEL - Account Manager (B2B)                                                                             Sep 2022-current  
 1. Responsible for overseeing and managing 300+ B2B top end product accounts.
