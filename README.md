@@ -16,6 +16,36 @@
 
 Dedicated Vendor Manager with an MBA and 3+ years of experience in Operations, Account Management, and Sales. Leveraging advanced Excel, SQL, R-Studio and MS tools. Efficiently manage seller acquisition and performance to drive success and maintain high standards. Seeking a challenging role to apply strategic insights and foster collaborative relationships for sustainable business growth.
 
+## WORK EXPERIENCE
+
+### AMAZON - Retail Vendor Manager                                                                                    December 2023 - Current
+Evaluates products and services to continually drive quality of customer experience.
+Identifies opportunities to differentiate our customer experience from the competition.
+Dives deep into inputs and understands the downstream impact of changes to pricing, selection, and convenience for multiple subcategories.
+Enhanced in-stock levels, streamlined planning, and boosted vendor efficiency for improved operational performance and systematic forecasting in fulfillment centers.
+Provides recommendation on business opportunities and long-term strategy for multiple sub-categories.
+
+### BHARTI AIRTEL - Account Manager (B2B)                                                                              Sep 2022- Sep 2023
+1. Responsible for overseeing and managing 300+ B2B top end product accounts.
+2. Generated revenue increase of 30% in 10 months over the multiple Product lines.
+3. Addressed problems with accounting, billing, and service delivery to maintain and enhance B2B client
+satisfaction and renewed customer relations to drive growth.
+
+### RELIANCE RETAILS- New Store Ops. Manager(Retail & Vendor operations)                                                Dec 2020-Sep 2022
+1.  Analyze the market and validate the Profit and Loss prediction of next 5 years tenure of Smart Stores.
+2.  Managed 15 Retail Projects with New Reliance Smart, Smart Point, and Smart Bazar with currently
+getting the revenue of minimum 18%.
+3.  Proficient in business analysis and presenting findings to top management. Strong problem-solving
+skills in project management.
+4.  Manage all controllable costs to keep operations profitable
+
+
+## EDUCATION
+
+**Master Of Business Administration - IGNOU**                                                                            2022-2024                                                                   
+**Bachelor Of Hotel Management - Mangalore University**                                                                  2016-2020
+
+
 ## CERTIFICATIONS
 ### Certified Business Analytics Professional
 Implemented R-Programming (Predictive Analysis), SQLand Tableau to Prepare, Process, Analyze and Share the data into thoughtful insight.
@@ -123,38 +153,6 @@ models, The Dataset performing really well on Random Forest model and we found t
 the dataset the patient has the diabetes same communicated to the stakeholder.
 
 **Link : https://github.com/swasthik62/DIABETES.CASE.STUDY**
-
-
-## WORK EXPERIENCE
-
-### MERISKILL - DATA ANALYST (INTERN) 
-1. Using the machine learning algorithm like Linear regression, DTree, RandomForest models to predict
-the case study of Diabetes patient using R-Programming.
-2. Data collection, extraction and created the EDA for the given Ecommerce case study using the
-Tableau and also Manipulate the dataset using Microsoft SQL.
-3. Created the dashboard using Tableau and Excel pivot table in-order to bring the more accurate and
-approachable presentation
-
-### BHARTI AIRTEL - Account Manager (B2B)                                                                             Sep 2022-current  
-1. Responsible for overseeing and managing 300+ B2B top end product accounts.
-2. Generated revenue increase of 30% in 10 months over the multiple Product lines.
-3. Addressed problems with accounting, billing, and service delivery to maintain and enhance B2B client
-satisfaction and renewed customer relations to drive growth.
-
-### RELIANCE RETAILS- New Store Ops. Manager(Project)                                                               Dec 2020-Sep 2022
-1.  Analyze the market and validate the Profit and Loss prediction of next 5 years tenure of Smart Stores.
-2.  Managed 15 Retail Projects with New Reliance Smart, Smart Point, and Smart Bazar with currently
-getting the revenue of minimum 18%.
-3.  Proficient in business analysis and presenting findings to top management. Strong problem-solving
-skills in project management.
-4.  Manage all controllable costs to keep operations profitable
-
-## EDUCATION
-
-**Master Of Business Administration - IGNOU 2022**                                                                    Jan - Pursuing
-
-**Bachelor Of Hotel Management - Mangalore University**                                                                    2016-2020
-
 
 ## ACHIEVEMENTS
 
