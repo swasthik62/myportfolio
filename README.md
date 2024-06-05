@@ -14,11 +14,7 @@
 
 ## Objective
 
-Aspiring Business Analyst with an MBA and 2.7 years of professional experience in Operations Project
-Handling and Stakeholder Management. Completed and Certified Data analyst intern at MeriSkill. Proficient in statistical modeling, hypothesis testing, data
-modeling, and cleansing data using R-Studio, SQL, and skilled in data visualization with Tableau. I excel in
-Waterfall and Agile methodologies using JIRA for Software Development. Committed to continuous
-learning and dedicated to driving data-driven decision-making in a dynamic business environment.
+Dedicated Vendor Manager with an MBA and 3+ years of experience in Operations, Account Management, and Sales. Leveraging advanced Excel, SQL, R-Studio and MS tools. Efficiently manage seller acquisition and performance to drive success and maintain high standards. Seeking a challenging role to apply strategic insights and foster collaborative relationships for sustainable business growth.
 
 ## CERTIFICATIONS
 ### Certified Business Analytics Professional
